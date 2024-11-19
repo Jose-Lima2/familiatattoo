@@ -9,7 +9,7 @@ import { fadeIn } from '../variants';
 const Contact = () => {
   //estrutura contato
   const { title, info, form } = contactData;
-  return (<section className='section'>
+  return (<section id='contato' className='section'>
     <div className="container mx-auto">
       <div className='flex flex-col xl:flex-row gap-y-16' >
         {/*text */}

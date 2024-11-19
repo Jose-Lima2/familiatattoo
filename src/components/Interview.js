@@ -18,7 +18,7 @@ const Interview = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <motion.section
+    <motion.section id='entrevista'
       variants={fadeIn('up')}
       initial='hidden'
       whileInView={'show'}

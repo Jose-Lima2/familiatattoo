@@ -26,10 +26,10 @@ export const headerData = {
 export const navData = {
   items: [
     { href: '#', name: 'Inicio' },
-    { href: '/', name: 'Sobre' },
-    { href: '/', name: 'Galeria' },
-    { href: '/', name: 'Entrevista' },
-    { href: '/', name: 'Contato' },
+    { href: '#sobre', name: 'Sobre' },
+    { href: '#galeria', name: 'Galeria' },
+    { href: '#entrevista', name: 'Entrevista' },
+    { href: '#contato', name: 'Contato' },
   ],
 };
 

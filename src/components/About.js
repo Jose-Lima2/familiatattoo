@@ -10,7 +10,7 @@ const About = () => {
   // estrutura sobre
   const { title, subtitle1, subtitle2, btnText, btnIcon } = aboutData;
   return (
-    <section className='lg:py-16 xl:pb-[160px]' >
+    <section id='sobre' className='lg:py-16 xl:pb-[160px]' >
       <div className='container mx-auto' >
         <di className='flex flex-col lg:flex-row gap-x-[70px] items-center' >
           {/*numero*/}
