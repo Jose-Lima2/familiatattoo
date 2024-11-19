@@ -214,10 +214,10 @@ export const footerData = {
   links: {
     title: 'Links úteis',
     items: [
-      { href: '/', name: 'Sobre mim' },
-      { href: '/', name: 'Minha Galeria' },
-      { href: '/', name: 'Minhas Habilidades' },
-      { href: '/', name: 'Fale comigo' },
+      { href: '#sobre', name: 'Sobre mim' },
+      { href: '#galeria', name: 'Minha Galeria' },
+      { href: '#habilidades', name: 'Minhas Habilidades' },
+      { href: '#contato', name: 'Fale comigo' },
     ],
   },
   program: {
